@@ -12,3 +12,7 @@ Hey wie gehts?
 
 -update
 -update 2 aber nur auf feature branch
+
+-So diese Updates möchte ich nur auf Branch2 
+
+-jo hier auch
